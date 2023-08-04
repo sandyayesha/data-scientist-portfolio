@@ -7,7 +7,7 @@
 
 Developed a mobile App that can classify Tobacco Garangan quality based its images using **tensorflow** with team. We found that the best pre-trained model to classify the case is MobileNet. We reached training accuracy 98% and validation accuracy 97%.
 
-![Demonstration Video](https://drive.google.com/file/d/1-gTXChArxM1WK0qEClGInHniUVfSSf03/view?usp=sharing)
+[Demonstration Video](https://drive.google.com/file/d/1-gTXChArxM1WK0qEClGInHniUVfSSf03/view?usp=sharing)
 
 ### [Predicting Value at Risk with GUI Matlab](https://github.com/sandyayesha/VaRmatlab)
 
