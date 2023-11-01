@@ -1,4 +1,4 @@
-# Data Analyst/Scientist
+# Data Scientist
 
 #### Technical Skills: Tensorflow, Python, R, SQL, Tableau, Matlab
 
